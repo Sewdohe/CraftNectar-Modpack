@@ -1,0 +1,377 @@
+{
+    "minecraft": {
+        "": {}
+    },
+    "mcp": {
+        "": {}
+    },
+    "FML": {
+        "": {}
+    },
+    "forge": {
+        "": {}
+    },
+    "micdoodlecore": {
+        "": {}
+    },
+    "ivtoolkit": {
+        "": {}
+    },
+    "mixinbooter": {
+        "": {}
+    },
+    "com.elytradev.movingworld.common.asm.coremod": {
+        "": {}
+    },
+    "foamfixcore": {
+        "": {}
+    },
+    "obfuscate": {
+        "": {}
+    },
+    "opencomputers|core": {
+        "": {}
+    },
+    "techguns_core": {
+        "": {}
+    },
+    "itemblacklist": {
+        "": {}
+    },
+    "redcore": {
+        "": {}
+    },
+    "securitycraft": {
+        "": {}
+    },
+    "orbis-lib": {
+        "": {}
+    },
+    "aether": {
+        "": {}
+    },
+    "aiimprovements": {
+        "": {}
+    },
+    "codechickenlib": {
+        "": {}
+    },
+    "ancientwarfare": {
+        "": {}
+    },
+    "ancientwarfareautomation": {
+        "": {}
+    },
+    "ancientwarfarenpc": {
+        "": {}
+    },
+    "ancientwarfarestructure": {
+        "": {}
+    },
+    "ancientwarfarevehicle": {
+        "": {}
+    },
+    "aoa3": {
+        "": {}
+    },
+    "placebo": {
+        "": {}
+    },
+    "apotheosis": {
+        "": {}
+    },
+    "jei": {
+        "": {}
+    },
+    "appleskin": {
+        "": {}
+    },
+    "ctm": {
+        "": {}
+    },
+    "appliedenergistics2": {
+        "": {}
+    },
+    "aquaculture": {
+        "": {}
+    },
+    "baubles": {
+        "": {}
+    },
+    "astralsorcery": {
+        "": {}
+    },
+    "attributefix": {
+        "": {}
+    },
+    "betterbuilderswands": {
+        "": {}
+    },
+    "betterpingdisplay": {
+        "": {}
+    },
+    "bibliocraft": {
+        "": {}
+    },
+    "biomesoplenty": {
+        "": {}
+    },
+    "bloodmoon": {
+        "": {}
+    },
+    "bookworm": {
+        "": {}
+    },
+    "thaumcraft": {
+        "": {}
+    },
+    "botania": {
+        "": {}
+    },
+    "chameleon": {
+        "": {}
+    },
+    "chisel": {
+        "": {}
+    },
+    "clumps": {
+        "": {}
+    },
+    "controlling": {
+        "": {}
+    },
+    "cucumber": {
+        "": {}
+    },
+    "movingworld": {
+        "": {}
+    },
+    "davincisvessels": {
+        "": {}
+    },
+    "divinerpg": {
+        "": {}
+    },
+    "galacticraftcore": {
+        "": {}
+    },
+    "orelib": {
+        "": {}
+    },
+    "dsurround": {
+        "": {}
+    },
+    "ebwizardry": {
+        "": {}
+    },
+    "mclib": {
+        "": {}
+    },
+    "emoticons": {
+        "": {}
+    },
+    "minerva": {
+        "": {}
+    },
+    "extraalchemy": {
+        "": {}
+    },
+    "flansmod": {
+        "": {}
+    },
+    "foamfix": {
+        "": {}
+    },
+    "fpsreducer": {
+        "": {}
+    },
+    "ftblib": {
+        "": {}
+    },
+    "ftbutilities": {
+        "": {}
+    },
+    "cfm": {
+        "": {}
+    },
+    "galacticraftplanets": {
+        "": {}
+    },
+    "ichunutil": {
+        "": {}
+    },
+    "hats": {
+        "": {}
+    },
+    "waila": {
+        "": {}
+    },
+    "icbmclassic": {
+        "": {}
+    },
+    "llibrary": {
+        "": {}
+    },
+    "iceandfire": {
+        "": {}
+    },
+    "ironchest": {
+        "": {}
+    },
+    "ironjetpacks": {
+        "": {}
+    },
+    "journeymap": {
+        "": {}
+    },
+    "zawa": {
+        "": {}
+    },
+    "lilcritters": {
+        "": {}
+    },
+    "lootr": {
+        "": {}
+    },
+    "mahoutsukai": {
+        "": {}
+    },
+    "malisiscore": {
+        "": {}
+    },
+    "malisisdoors": {
+        "": {}
+    },
+    "mantle": {
+        "": {}
+    },
+    "mcef": {
+        "": {}
+    },
+    "nsutils": {
+        "": {}
+    },
+    "mcheliext": {
+        "": {}
+    },
+    "mekanism": {
+        "": {}
+    },
+    "mobends": {
+        "": {}
+    },
+    "ruins": {
+        "": {}
+    },
+    "mousetweaks": {
+        "": {}
+    },
+    "mw": {
+        "": {}
+    },
+    "mysticalagriculture": {
+        "": {}
+    },
+    "hbm": {
+        "": {}
+    },
+    "opencomputers": {
+        "": {}
+    },
+    "omlib": {
+        "": {}
+    },
+    "openmodularturrets": {
+        "": {}
+    },
+    "overlord": {
+        "": {}
+    },
+    "patchouli": {
+        "": {}
+    },
+    "phosphorcrashfix": {
+        "": {}
+    },
+    "reauth": {
+        "": {}
+    },
+    "reccomplex": {
+        "": {}
+    },
+    "twilightforest": {
+        "": {}
+    },
+    "tconstruct": {
+        "": {}
+    },
+    "xreliquary": {
+        "": {}
+    },
+    "roguelike": {
+        "": {}
+    },
+    "jeid": {
+        "": {}
+    },
+    "simple-rpc": {
+        "": {}
+    },
+    "storagenetwork": {
+        "": {}
+    },
+    "spartanshields": {
+        "": {}
+    },
+    "spartanweaponry": {
+        "": {}
+    },
+    "storagedrawers": {
+        "": {}
+    },
+    "techguns": {
+        "": {}
+    },
+    "thaumicaugmentation": {
+        "": {}
+    },
+    "thaumicjei": {
+        "": {}
+    },
+    "thaumicperiphery": {
+        "": {}
+    },
+    "toastcontrol": {
+        "": {}
+    },
+    "travelersbackpack": {
+        "": {}
+    },
+    "vehicle": {
+        "": {}
+    },
+    "waystones": {
+        "": {}
+    },
+    "worldedit": {
+        "": {}
+    },
+    "phosphor-lighting": {
+        "": {}
+    },
+    "immersiveengineering": {
+        "": {}
+    },
+    "immersiveintelligence": {
+        "": {}
+    },
+    "rebornmod": {
+        "": {}
+    },
+    "wizardryutils": {
+        "": {}
+    },
+    "": {
+        "": {}
+    }
+}

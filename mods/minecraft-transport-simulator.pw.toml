@@ -1,0 +1,13 @@
+name = "Immersive Vehicles (Formerly Transport Simulator)"
+filename = "Immersive Vehicles-1.12.2-22.11.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c04c6cd327792b736cbf024d30990c9188d86fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4671493
+project-id = 286703

@@ -1,0 +1,13 @@
+name = "Lil' Critters - A ZAWA Addon"
+filename = "lilcritters-1.12.2-1.1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82b0556818f19665f99873531f88e2e50f899094"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2990146
+project-id = 307465

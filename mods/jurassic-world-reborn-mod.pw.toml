@@ -1,0 +1,13 @@
+name = "Jurassic World Reborn Mod"
+filename = "JurassicWorldReborn-1.12.2-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "036ea79c2ab19cb37f80c8aa892c247f2c9831e6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4574634
+project-id = 359537
