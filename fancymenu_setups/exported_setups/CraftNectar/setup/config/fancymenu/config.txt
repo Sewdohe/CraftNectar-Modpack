@@ -1,7 +1,5 @@
 ##[general]
 
-[Stop vanilla world music when in a customizable menu.]
-B:stopworldmusicwhencustomizable = 'false';
 [If menu background sounds added by FancyMenu should be played when a world is loaded.]
 B:playbackgroundsoundsinworld = 'false';
 B:forcefullscreen = 'false';
@@ -22,18 +20,12 @@ B:advancedmode = 'false';
 B:showcustomizationbuttons = 'true';
 
 
-##[mainmenu]
-
-S:copyrightposition = 'bottom-right';
-S:copyrightcolor = '#ffffff';
-
-
 ##[loading]
 
 B:allowgameintroskip = 'true';
 B:showanimationloadingstatus = 'true';
 S:gameintroanimation = '';
-B:preloadanimations = 'true';
+B:preloadanimations = 'false';
 S:customgameintroskiptext = '';
 
 
@@ -43,6 +35,12 @@ S:customgameintroskiptext = '';
 S:customwindowtitle = '';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'false';
+
+
+##[world_loading_screen]
+
+B:showloadingscreenanimation = 'true';
+B:showloadingscreenpercent = 'true';
 
 
 ##[multiplayer_screen]

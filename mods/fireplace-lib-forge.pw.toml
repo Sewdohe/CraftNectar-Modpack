@@ -1,0 +1,13 @@
+name = "Fireplace Lib (Forge)"
+filename = "Fireplace-Lib-Forge-7.0.2+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e752e889402a334cf92a58a01a0c2ca22d35980"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3895311
+project-id = 634959

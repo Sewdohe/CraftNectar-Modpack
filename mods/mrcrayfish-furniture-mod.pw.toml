@@ -1,13 +1,13 @@
 name = "MrCrayfish's Furniture Mod"
-filename = "furniture-6.3.2-1.12.2.jar"
+filename = "cfm-7.0.0-pre35-1.18.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3214f030651e7585a076bd96ba3863e2fa1b6676"
+hash = "2e73f576c3b1d6b36ed258df6ac67cb8a82bcc98"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3865259
+file-id = 4374992
 project-id = 55438

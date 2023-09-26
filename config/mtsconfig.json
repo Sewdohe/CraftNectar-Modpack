@@ -124,7 +124,11 @@
         "ma_p": 1.0,
         "unucustom": 1.0,
         "iavm": 1.0,
-        "iav": 1.0
+        "iav": 1.0,
+        "melvinssignpack": 1.0,
+        "unucivil": 1.0,
+        "iv_tpp_v4_tests": 1.0,
+        "iv_tpp": 1.0
       },
       "comment": "Scale of all vehicles for this pack.  You probably won't want to change this, but if you do want the vehicles to be smaller for some reason, you can."
     },
@@ -144,7 +148,11 @@
         "ma_p": 1.0,
         "unucustom": 1.0,
         "iavm": 1.0,
-        "iav": 1.0
+        "iav": 1.0,
+        "melvinssignpack": 1.0,
+        "unucivil": 1.0,
+        "iv_tpp_v4_tests": 1.0,
+        "iv_tpp": 1.0
       },
       "comment": "A mapping of pack-speciifc speed factors.  These values will only apply to the vehicles in the pack modified.  This allows for speeding up packs with slower vehicles, or slowing down packs with fast vehicles for a more even play experience.  Note that this applies on top of the global speed factor.  So if that is set to 0.30, and a pack is set to 0.5, then the total speed factor will be 0.15"
     },
@@ -240,6 +248,15 @@
         "lava": 1.0,
         "gasoline": 1.0,
         "ethanol": 0.85
+      },
+      "electric": {
+        "lava": 1.0
+      },
+      "water": {
+        "lava": 1.0
+      },
+      "biodiesel": {
+        "lava": 1.0
       }
     },
     "lastLoadedFluids": {
@@ -260,23 +277,25 @@
       "biodiesel": "Biodiesel",
       "blazium": "Molten Blazium",
       "liquidsulfurdioxide": "Liquid Sulfur Dioxide",
+      "creeper_acid": "Creeper Acid",
       "liquidoxygen": "Liquid Oxygen",
       "fiery_essence": "Fiery Essence",
       "milk": "Milk",
       "hydrofluoric_acid": "Hydrofluoric Acid",
+      "moglava": "fluid.moglava",
       "nuclear_waste_fluid": "Nuclear Waste",
       "gaseous_cheese_milk": "Gaseous Cheese Milk",
       "bronze": "Molten Bronze",
       "liquidmethane": "Liquid Methane",
       "charger": "Liquid Charger",
       "varsium": "Molten Varsium",
-      "springwater": "Springwater",
       "liquidsodium": "Liquid Sodium",
       "infected_purlonite_water_fluid": "Infected Purlonite Water",
       "argon": "Argon Gas",
       "liquid_death": "Liquid Death",
       "silver": "Molten Silver",
       "liquidlithium": "Liquid Lithium",
+      "ooze": "fluid.ooze",
       "carbon_monoxide": "Carbon Monoxide",
       "liquidchlorine": "Liquid Chlorine",
       "steel": "Molten Steel",
@@ -323,16 +342,19 @@
       "fuel": "Fuel",
       "knightslime": "Molten Knightslime",
       "latex": "Latex",
+      "acid": "fluid.acid",
       "ink_cyan": "Cyan Ink",
       "pigiron": "Molten Pigiron",
       "ender_sap": "Ender Sap",
       "tin": "Molten Tin",
       "ardite": "Molten Ardite",
       "oxygen": "Oxygen",
+      "rabbitooze": "fluid.rabbitooze",
       "liquidargon": "Liquid Argon",
       "obsidian": "Molten Obsidian",
       "glass": "Molten Glass",
       "dirt": "Liquid Dirt",
+      "sharacid": "fluid.sharacid",
       "brass": "Molten Brass",
       "water": "Water",
       "sand": "Quicksand",
@@ -351,12 +373,14 @@
       "concrete": "Liquid Concrete",
       "sulphuricacid": "Sulphuric Acid",
       "heavywater": "Heavy Water",
+      "vesspoison": "fluid.vesspoison",
       "lava": "Lava",
       "oil": "Oil",
       "liquiddeuterium": "Liquid Deuterium",
       "honey": "Honey",
       "bacterialsludge": "Bacterial Sludge",
       "steam": "Steam",
+      "veshoney": "fluid.veshoney",
       "lunar": "Molten Lunar Metal",
       "rosite": "Molten Rosite",
       "creosote": "Creosote Oil",

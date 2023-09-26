@@ -1,13 +1,13 @@
 name = "Overlord"
-filename = "Overlord-1.12.2-2.4.14.jar"
+filename = "Overlord-Forge-3.2.3+1.18.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a9e6b3c66d760676f59e4cb688c55b28faf156c3"
+hash = "8e8149902f24c4dc5ea0132506c350b31b1894f2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 2631782
+file-id = 4123803
 project-id = 251732

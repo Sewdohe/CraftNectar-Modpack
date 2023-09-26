@@ -4,138 +4,139 @@ This is the official modpack for the CraftNectar server.
 
 ## What is in it?
 
-- This is the output of the Packwiz list command as of now:
-- [Immersive Vehicles/IV/MTS] Texel Arsenal Pack (TexelArsenal_1.12.2_1.0.1.jar)
-- [Immersive Vehicles] IAV Parts pack (IAV_Parts_Pack_1.0.2-1.12.2.jar)
-- Additional Structures (Rex's-AdditionalStructures-1.12.x(v.2.5.0).jar)
-- Advent of Ascension (Nevermine) (AoA3-3.3.6.jar)
-- AI Improvements (AIImprovements-1.12-0.0.1b3.jar)
-- Ancient Warfare 2 (ancientwarfare-1.12.2-2.7.0.1038.jar)
-- Apotheosis (Apotheosis-1.12.2-1.12.5.jar)
-- AppleSkin (AppleSkin-mc1.12-1.0.14.jar)
-- Applied Energistics 2 (appliedenergistics2-rv6-stable-7.jar)
-- Aquaculture 2 (Aquaculture-1.12.2-1.6.8.jar)
-- Artifacts (Artifacts-1.12.2-1.2.3.jar)
-- Astral Sorcery (astralsorcery-1.12.2-1.10.27.jar)
-- AttributeFix (AttributeFix-Forge-1.12.2-1.0.12.jar)
-- Baubles (Baubles-1.12-1.5.2.jar)
-- Better Builder's Wands (BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar)
-- Better Ping Display (BetterPingDisplay-1.12.2-1.0.jar)
-- BetterFps (BetterFps-1.4.8.jar)
-- BiblioCraft (BiblioCraft[v2.4.6][MC1.12.2].jar)
-- Biomes O' Plenty (BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar)
-- Bookworm (bookworm-1.12.2-2.5.2.1.jar)
-- Botania (Botania r1.10-364.4.jar)
-- Chameleon (Chameleon-1.12-4.1.3.jar)
-- Chisel (Chisel-MC1.12.2-1.0.2.45.jar)
-- Clumps (Clumps-3.1.2.jar)
-- CodeChicken Lib 1.8.+ (CodeChickenLib-1.12.2-3.2.3.358-universal.jar)
-- ConnectedTexturesMod (CTM-MC1.12.2-1.0.2.31.jar)
-- Console Filter (ConsoleFilter-1.12.2-1.1.1.jar)
-- Controlling (Controlling-3.0.12.2.jar)
-- Crafting Tweaks (CraftingTweaks_1.12.2-8.1.9.jar)
-- Cucumber Library (Cucumber-1.12.2-1.1.3.jar)
-- Delete Item (deleteitem-1.0.LOLRIPITEMS.jar)
-- DivineRPG (Official) (DivineRPG-1.7.1.jar)
-- Dynamic Surroundings (DynamicSurroundings-1.12.2-3.6.1.0.jar)
-- Electroblob's Wizardry (ElectroblobsWizardry-4.3.11.jar)
-- Emoticons (emoticons-1.1.2-1.12.2.jar)
-- Extra Alchemy (extraalchemy-forge-1.12-build11-0.5.4.jar)
-- FancyMenu [Forge] (fancymenu_forge_2.14.9_MC_1.12-1.12.2.jar)
-- Foam​Fix (foamfix-0.10.15-1.12.2.jar)
-- FPS Reducer (FpsReducer-mc1.12.2-1.20.jar)
-- FTB Library (Forge) (Legacy) (FTBLib-5.4.7.2.jar)
-- FTB Utilities (Forge) (FTBUtilities-5.4.1.131.jar)
-- Galactic Computers (GalacticComputers-1.0.0.jar)
-- Galacticraft Legacy (Galacticraft-1.12.2-4.0.6.jar)
-- Hats (Hats-1.12.2-7.1.1.jar)
-- Hwyla (Hwyla-1.8.26-B41_1.12.2.jar)
-- ICBM - Classic (ICBM-classic-1.12.2-5.3.0.jar)
-- Ice and Fire: Dragons (iceandfire-1.9.1-1.12.2.jar)
-- iChunUtil (iChunUtil-1.12.2-7.2.2.jar)
-- Immersive Engineering (ImmersiveEngineering-0.12-98.jar)
-- Immersive Intelligence (immersiveintelligence-0.2.1.jar)
-- Immersive Vehicles (Formerly Transport Simulator) (Immersive Vehicles-1.12.2-22.11.0.jar)
-- Inventory HUD+ (InventoryHUD-1.12.2.forge-3.4.4.jar)
-- Inventory Pets (inventorypets-1.12-2.0.15.jar)
-- Iron Chests (ironchest-1.12.2-7.0.72.847.jar)
-- Iron Jetpacks (IronJetpacks-1.12-2-1.1.0.jar)
-- IvToolkit (IvToolkit-1.3.3-1.12.jar)
-- JourneyMap (journeymap-1.12.2-5.7.1.jar)
-- Jurassic World Reborn Mod (JurassicWorldReborn-1.12.2-1.3.0.jar)
-- Just Enough Items (JEI) (jei_1.12.2-4.16.1.301.jar)
-- Kadwin Jurassic Park Vehicles Pack [MTS/IV] (MTS_Kadwin_JP_Vehicles_Pack_4.1.jar)
-- KleeSlabs (KleeSlabs_1.12.2-5.4.12.jar)
-- Konkrete [Forge] (konkrete_forge_1.6.1_MC_1.12-1.12.2.jar)
-- LagGoggles (LagGoggles-1.12.2-5.9-140.jar)
-- Lil' Critters - A ZAWA Addon (lilcritters-1.12.2-1.1.0.0.jar)
-- LLibrary (llibrary-1.7.20-1.12.2.jar)
-- Lootr (Forge) (lootr-1.12.2-0.6.1.jar)
-- Mahou Tsukai (mahoutsukai-1.12.2-v1.19.55.jar)
-- MalisisCore (malisiscore-1.12.2-6.5.1.jar)
-- MalisisDoors (malisisdoors-1.12.2-7.3.0.jar)
-- Mantle (Mantle-1.12-1.3.3.55.jar)
-- MCEF Remastered (mcefremasterd-1.12.2-1.21b.jar)
-- McHorse's McLib (mclib-2.4.2-1.12.2.jar)
-- Mekanism (Mekanism-1.12.2-9.8.3.390.jar)
-- Minecraft Comes Alive (MCA) (MCA-1.12.2-6.1.0-universal.jar)
-- Minerva Library (minerva-library-1.0.13.jar)
-- MixinBooter (!mixinbooter-8.4.jar)
-- MixinBootstrap (_MixinBootstrap-1.1.0.jar)
-- MJRLegends Lib (MJRLegendsLib-1.12.2-1.2.1.jar)
-- Mo' Bends (MoBends_1.12.2-1.2.1-19.12.21.jar)
-- More Planets - Galacticraft Add-on (More-Planets-1.12.2-2.3.2-GC4.0.5.jar)
-- Mouse Tweaks (MouseTweaks-2.10-mc1.12.2.jar)
-- MovingWorld (movingworld-1.12-6.353-full.jar)
-- MrCrayfish's Furniture Mod (furniture-6.3.2-1.12.2.jar)
-- MrCrayfish's Vehicle Mod (vehicle-mod-0.44.1-1.12.2.jar)
-- MTS General's General Vehicles Pack (Generals_General_Vehicles_2.1.2.jar)
-- Mystical Agriculture (MysticalAgriculture-1.12.2-1.7.5.jar)
-- Obfuscate (obfuscate-0.4.2-1.12.2.jar)
-- Oh The Biomes You'll Go (BiomesYouGo1.7.1.jar)
-- OMLib (omlib-1.12.2-3.1.5-256.jar)
-- Open Modular Turrets (openmodularturrets-1.12.2-3.1.14-382.jar)
-- OpenComputers (OpenComputers-MC1.12.2-1.8.3+274990f.jar)
-- Opencomputers ICBM-Classic Addon (OpenComputersICBMAddon-1.3.jar)
-- OreLib (OreLib-1.12.2-3.6.0.1.jar)
-- Overlord (Overlord-1.12.2-2.4.14.jar)
-- Patchouli (Patchouli-1.0-23.6.jar)
-- Phosphor (Forge) (phosphor-1.12.2-0.2.6+build50-universal.jar)
-- Phosphor Crash Fix (PhosphorCrashFix-1.12.2-1.0.0.jar)
-- Placebo (Placebo-1.12.2-1.6.1.jar)
-- ReAuth (ReAuth-1.12-Forge-4.0.7.jar)
-- Recurrent Complex (RecurrentComplex-1.4.8.5.jar)
-- Red Core (!Red-Core-0.4.jar)
-- Reliquary Reincarnations (Reliquary-1.12.2-1.3.4.796.jar)
-- Roguelike Dungeons (RoguelikeDungeons-1.12.2-1.8.0.jar)
-- Roughly Enough IDs (RoughlyEnoughIDs-2.0.6.jar)
-- Security Craft ([1.12.2] SecurityCraft v1.9.7.jar)
-- Shadowfacts' Forgelin (Forgelin-1.8.4.jar)
-- Simple Discord RPC [Forge/Fabric/Quilt] (simple-rpc-1.12.2-3.1.1.jar)
-- Simple Storage Network (SimpleStorageNetwork-1.12.2-1.8.3.jar)
-- Spartan Shields (SpartanShields-1.12.2-1.5.5.jar)
-- Spartan Weaponry (SpartanWeaponry-1.12.2-1.5.3.jar)
-- SteveKunG's Lib (SteveKunG's-Lib-mc1.12.2-v1.3.0.jar)
-- Storage Drawers (StorageDrawers-1.12.2-5.5.0.jar)
-- Surge (Surge-1.12.2-2.0.77.jar)
-- Thaumcraft (Thaumcraft-1.12.2-6.1.BETA26.jar)
-- Thaumic Augmentation (ThaumicAugmentation-1.12.2-2.1.11.jar)
-- Thaumic JEI (ThaumicJEI-1.12.2-1.6.0-27.jar)
-- Thaumic Periphery (thaumicperiphery-0.3.1.jar)
-- The Aether II (aether_ii-1.12.2-0.3.0+build411-universal.jar)
-- The Twilight Forest (twilightforest-1.12.2-3.11.1021-universal.jar)
-- TickCentral (TickCentral-3.2.jar)
-- Tinkers Construct (TConstruct-1.12.2-2.13.0.183.jar)
-- TipTheScales (TipTheScales-1.12.2-1.0.4.jar)
-- Toast Control (Toast Control-1.12.2-1.8.1.jar)
-- Traveler's Backpack (TravelersBackpack-1.12.2-1.0.35.jar)
-- UNU Parts Pack [MTS] (UNU Parts Pack [MTS] 1.12.2-22.10.0-6.0.3.jar)
-- Vampirism - Become a vampire! (Vampirism-1.12.2-1.6.2.jar)
-- Vic's Modern Warfare Mod [Discontinued] (mw_2.0-0.4.6.2_mc1.12.2.jar)
-- Waystones (Waystones_1.12.2-4.1.0.jar)
-- WizardryUtils (WizardryUtils-1.12.2-1.1.4.jar)
-- WorldEdit (worldedit-forge-mc1.12.2-6.1.10-dist.jar)
-- Zoo & Wild Animals Rebuilt : ZAWA (zawa-1.12.2-2.1.3.jar)
+This is the output of the Packwiz list command as of now:
+- Additional Structures
+- Akashic Tome
+- Annotated DI (Forge)
+- Applied Energistics 2
+- Architectury API (Fabric/Forge)
+- AttributeFix
+- AutoRegLib
+- Balm (Forge Edition)
+- Better Animals Plus
+- Better Biome Blend
+- Better Villages - Forge
+- Blood Magic 
+- Blue Skies
+- Bonsai Trees 3
+- Bookshelf
+- Botania
+- Building Wands
+- Caelus API (Forge)
+- Camera Mod
+- CC: Tweaked
+- Citadel
+- Cloth Config API (Fabric/Forge)
+- Clumps
+- CoFH Core
+- Controlling
+- Create
+- Create Crafts & Additions
+- Cristel Lib
+- Cucumber Library
+- Curios API (Forge)
+- Dank Storage
+- DataPack Anvil
+- Easy Villagers
+- Eau D' Emil
+- Electrodynamics
+- Elemental Craft
+- Eureka! Ships! for Valkyrien Skies (Forge/Fabric)
+- Extra Utilities Reborn
+- Extreme Reactors
+- FancyMenu [Forge]
+- Farmer's Delight
+- Fast Leaf Decay
+- Fireplace Lib (Forge)
+- Framework
+- FTB Essentials (Forge & Fabric)
+- FTB Library (Forge)
+- FTB Ultimine (Forge)
+- GeckoLib
+- Ice and Fire: Dragons
+- Immersive Engineering
+- Iron Chests
+- Jade 🔍JourneyMap
+- Just Enough Items (JEI)
+- Just Enough Resources (JER)
+- Just Zoom [Forge]
+- Konkrete [Forge]
+- Kotlin for Forge
+- Libnonymous
+- Library Ferret - Forge
+- Lightman's Currency
+- Lootr (Forge)
+- Mana and Artifice
+- Mantle
+- Mekanism
+- Mekanism Generators
+- MemoryLeakFix
+- MNA Raw
+- Mo' Guns
+- Mob Catcher
+- Mob Grinding Utils
+- Modern  Lights
+- Modern Life
+- Modonomicon
+- Moonlight Lib
+- Mouse Tweaks
+- Mowzie's Mobs
+- MrCrayfish's Furniture Mod
+- MrCrayfish's Gun Mod
+- Mystical Agradditions
+- Mystical Agriculture
+- Occultism
+- Oculus
+- Oh The Biomes You'll Go
+- Origins (Forge)
+- Origins++
+- Overlord
+- Patchouli
+- Pehkui
+- Pick Up Notifier [Forge & Fabric]
+- Pipez
+- Placebo
+- Puzzles Lib [Forge & Fabric]
+- Refined Storage
+- Rubidium
+- Security Craft
+- Silent Gear
+- Silent Lib (silentlib)
+- Silent's Gems
+- Simple Discord RPC [Forge/Fabric/Quilt]
+- SmartBrainLib (Forge/Fabric/Quilt)
+- Sophisticated Backpacks
+- Sophisticated Core
+- Storage Drawers
+- Structure Gel API
+- Supplementaries
+- TerraBlender (Forge)
+- Thermal Dynamics
+- Thermal Expansion
+- Thermal Foundation
+- Thermal Integration
+- Tinkers Construct
+- Tinkers Reforged
+- Tips
+- Towns and Towers
+- Valkyrien Computers [Fabric/Forge]
+- Valkyrien Skies (Forge/Fabric)
+- Visual Workbench [Forge & Fabric]
+- Waystones
+- When Dungeons Arise - Forge!
+- XL Packets
+- YUNG's API (Forge)
+- YUNG's Better Desert Temples (Forge)
+- YUNG's Better Dungeons (Forge)
+- YUNG's Better End Island (Forge)
+- YUNG's Better Mineshafts (Forge)
+- YUNG's Better Nether Fortresses (Forge)
+- YUNG's Better Ocean Monuments (Forge)
+- YUNG's Better Strongholds (Forge)
+- YUNG's Better Witch Huts (Forge)
+- YUNG's Bridges (Forge)
+- YUNG's Extras (Forge)
+- ZeroCore 2
 
 ## How do I play?
 

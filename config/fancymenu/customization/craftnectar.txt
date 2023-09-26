@@ -1,0 +1,228 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = resources/aa.jpg
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-left
+  x = 4
+  action = movebutton
+  y = 3
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundnormal = resources/t.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376322%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-right
+  x = -103
+  action = movebutton
+  y = -18
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundnormal = resources/t.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-right
+  x = -103
+  action = movebutton
+  y = 36
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundnormal = resources/t.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-left
+  x = 5
+  action = movebutton
+  y = -27
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundnormal = resources/t.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = mid-right
+  x = -103
+  action = movebutton
+  y = 9
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundnormal = resources/t.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376346%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 439
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 1544e70a-8284-4fed-8182-8e3533d930ed1695612029116
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 108
+  action = deep_customization_element:title_screen_branding
+  actionid = 8c3dc4c9-1cc1-4adf-856b-c76a2a36aaf21695612029116
+  y = 318
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 918
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 20d4e4c1-ed77-453d-a92e-513b6271102e1695612029116
+  y = 460
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 676
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 3fd280b2-e175-4f32-87cc-ef9e15d9a4ae1695612029116
+  y = 220
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 436
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = bb69f2f3-001d-4239-9a23-9656dd45a5bc1695612029116
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 7f84cc59-2470-452a-9f6c-224301654c4e1695612029116
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = bottom-right
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = A CraftNectar Product
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -119
+  width = 119
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 2ff9bbe0-5c8b-474d-a1a9-23a3b7973f411695613184509
+  y = -15
+  alignment = left
+  height = 15
+}
+
+customization {
+  path = resources/cn2.gif
+  orientation = top-centered
+  x = -154
+  width = 309
+  action = addtexture
+  actionid = ac68f4df-5ee5-4b14-9358-49d9ece9e48a1695613511595
+  y = 4
+  height = 79
+}
+

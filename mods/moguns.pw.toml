@@ -1,0 +1,13 @@
+name = "Mo' Guns"
+filename = "MoGuns-1.9.2-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a07f8fea4f9469716050d93f540cbcc97b14c42"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4311737
+project-id = 530863

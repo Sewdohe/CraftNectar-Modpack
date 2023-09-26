@@ -1,0 +1,13 @@
+name = "Annotated DI (Forge)"
+filename = "Annotated-DI-Forge-4.0.3+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2f4b08912cfd8274679b02b55ac9eac906cda297"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4492506
+project-id = 605980

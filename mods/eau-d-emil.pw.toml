@@ -1,0 +1,13 @@
+name = "Eau D' Emil"
+filename = "eaudemil-1.18.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c2bd6c08ca48de763cc2dd423b1015782c33b7dd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3987132
+project-id = 676134

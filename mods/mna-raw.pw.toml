@@ -1,0 +1,13 @@
+name = "MNA Raw"
+filename = "mnaraw-1.0.2-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ec7d9795ea5c7cd7916831e465587a59f899c24"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4051852
+project-id = 690172
