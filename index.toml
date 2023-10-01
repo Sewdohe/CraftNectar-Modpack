@@ -66,7 +66,7 @@ hash = "0eb02378b085f8acaa33cbf2f9e4592c447664742ac16a3d03808c2eeff7f501"
 
 [[files]]
 file = "README.md"
-hash = "c9f62468cdcdc5516090cf0b6ef3a8e3644298054feff1df7a07442f093c6940"
+hash = "5c3bd3f0a8eeb05f1caca8911c9b3d816c5e5e8182ab6a1c9012ae9a46b724eb"
 
 [[files]]
 file = "config/Additional Structures - General.cfg"
@@ -5539,6 +5539,11 @@ hash = "c55d8087b3a790472313b0e366fb016acea13dad23b4dfac869422047e7150d0"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "5262b40999a9c2e60b43561067f5f199814627eaaee3d193c92ef8b99f20fe61"
+metafile = true
+
+[[files]]
 file = "mods/annotated-di-forge.pw.toml"
 hash = "421522d0654e8888ea48c3546acb437c82947599625630783938b7d3740d408d"
 metafile = true
@@ -5571,6 +5576,11 @@ metafile = true
 [[files]]
 file = "mods/better-biome-blend.pw.toml"
 hash = "43ba9e344d296d84c8cd634b622af4aaef85ccd3ebafa98a14b8967d5d991ac5"
+metafile = true
+
+[[files]]
+file = "mods/better-fps-render-distance.pw.toml"
+hash = "870463293308fb73af014c9adf6b5631edb9e745af8de337726f0b0c0eef74d7"
 metafile = true
 
 [[files]]
@@ -5621,6 +5631,11 @@ metafile = true
 [[files]]
 file = "mods/camera-mod.pw.toml"
 hash = "06fadd1cf6120d4c660bf130cc8e3f4c595d2b8471d2c8d860229df475ff1a18"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "75e650b0bd889e5f748fe4f637109201282c0a836dc182e82a18f88bb3d2e863"
 metafile = true
 
 [[files]]
@@ -5736,6 +5751,16 @@ metafile = true
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "80e1013e0049365892e0c05b6263062ff5d13a2638d4f97129bb2985dbafa424"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "3192433f940257c03b21f7c13cdf0af8195c797c08d3f762da5eaf102a061cbc"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "a6944c6e912ec3c1293b84cbed86ea1a0dbd8f1827435cb1bf2849d37b42a0dc"
 metafile = true
 
 [[files]]
@@ -5859,11 +5884,6 @@ hash = "ec1b184fe352b65db298ce3c93b66aa2c12a5b0a6ea1ef9a576179a1523b0264"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "ad64853eb5ba56dc6e4b1bb9214dbfe28e2a0c865dc76b4b77edee0f11adceff"
-metafile = true
-
-[[files]]
 file = "mods/mna-raw.pw.toml"
 hash = "f2d0d7c55755ab738f6043aae10db26b201e2f175106f652f55b205a5cf5bd53"
 metafile = true
@@ -5984,6 +6004,11 @@ hash = "ea3a680ef8777698e5c14a23ce80e6972baf3f223d56de8ad503dcebbdf0b428"
 metafile = true
 
 [[files]]
+file = "mods/pluto.pw.toml"
+hash = "d157980f6e4b7a62b870b9a86aafb8f07342800a6ffcffb945567c6b5203af2e"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "60dae26990035300fa780d675f08756ef4d5fded76423b839328d648869e6b23"
 metafile = true
@@ -5996,6 +6021,11 @@ metafile = true
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "07820f2e9cf69d227919b049139bb03f83332d3ca2af5b4253c6e88893c47680"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "82bb69add7234aa50636277b38aa25eca2f9e6277253a62af1e6c4b3cbc05481"
 metafile = true
 
 [[files]]
@@ -6029,8 +6059,18 @@ hash = "a3b5e25a89ad011b03d470e9c5a34dfbeff48cada5935893a95a1e6429c72548"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "c91d36c3105a6010388798de164b4e4ebef00d04af5fa2645d171793fe15e67e"
+metafile = true
+
+[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "dc02113e8e56bcf6980023e22623f086a4b70155c96bc1003e130ff083b2b997"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "ae96852dffcc7cf0bcf5c80519c5a53daf52dd8a444f95743fdd4af1d86d976d"
 metafile = true
 
 [[files]]

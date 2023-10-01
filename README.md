@@ -7,6 +7,7 @@ This is the official modpack for the CraftNectar server.
 This is the output of the Packwiz list command as of now:
 - Additional Structures
 - Akashic Tome
+- Alternate Current
 - Annotated DI (Forge)
 - Applied Energistics 2
 - Architectury API (Fabric/Forge)
@@ -15,6 +16,7 @@ This is the output of the Packwiz list command as of now:
 - Balm (Forge Edition)
 - Better Animals Plus
 - Better Biome Blend
+- Better Fps - Render Distance[Forge]
 - Better Villages - Forge
 - Blood Magic 
 - Blue Skies
@@ -24,6 +26,7 @@ This is the output of the Packwiz list command as of now:
 - Building Wands
 - Caelus API (Forge)
 - Camera Mod
+- Canary
 - CC: Tweaked
 - Citadel
 - Cloth Config API (Fabric/Forge)
@@ -47,6 +50,8 @@ This is the output of the Packwiz list command as of now:
 - FancyMenu [Forge]
 - Farmer's Delight
 - Fast Leaf Decay
+- FastWorkbench
+- FerriteCore (Forge)
 - Fireplace Lib (Forge)
 - Framework
 - FTB Essentials (Forge & Fabric)
@@ -70,7 +75,6 @@ This is the output of the Packwiz list command as of now:
 - Mantle
 - Mekanism
 - Mekanism Generators
-- MemoryLeakFix
 - MNA Raw
 - Mo' Guns
 - Mob Catcher
@@ -96,15 +100,19 @@ This is the output of the Packwiz list command as of now:
 - Pick Up Notifier [Forge & Fabric]
 - Pipez
 - Placebo
+- Pluto
 - Puzzles Lib [Forge & Fabric]
 - Refined Storage
 - Rubidium
+- Saturn
 - Security Craft
 - Silent Gear
 - Silent Lib (silentlib)
 - Silent's Gems
 - Simple Discord RPC [Forge/Fabric/Quilt]
+- Simple Voice Chat
 - SmartBrainLib (Forge/Fabric/Quilt)
+- Smooth Boot (Reloaded)
 - Sophisticated Backpacks
 - Sophisticated Core
 - Storage Drawers
@@ -137,6 +145,7 @@ This is the output of the Packwiz list command as of now:
 - YUNG's Bridges (Forge)
 - YUNG's Extras (Forge)
 - ZeroCore 2
+
 
 ## How do I play?
 
