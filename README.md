@@ -5,8 +5,8 @@ This is the official modpack for the CraftNectar server.
 ## What is in it?
 
 This is the output of the Packwiz list command as of now:
-- Additional Structures
-- Akashic Tome
+Additional Structures
+Akashic Tome
 - Alternate Current
 - Annotated DI (Forge)
 - Applied Energistics 2
@@ -61,8 +61,7 @@ This is the output of the Packwiz list command as of now:
 - Ice and Fire: Dragons
 - Immersive Engineering
 - Iron Chests
-- Jade 🔍JourneyMap
-- Just Enough Items (JEI)
+- Jade 🔍Just Enough Items (JEI)
 - Just Enough Resources (JER)
 - Just Zoom [Forge]
 - Konkrete [Forge]
@@ -92,6 +91,7 @@ This is the output of the Packwiz list command as of now:
 - Occultism
 - Oculus
 - Oh The Biomes You'll Go
+- Open Parties and Claims
 - Origins (Forge)
 - Origins++
 - Overlord
@@ -147,6 +147,7 @@ This is the output of the Packwiz list command as of now:
 - ZeroCore 2
 
 
+
 ## How do I play?
 
 1. Download the modpack zip file, and import it into your favorite launcher. (Curse, Prism, AT Launcher, etc.)
@@ -158,3 +159,12 @@ This is the output of the Packwiz list command as of now:
 Great! We'd love your contribution. If you know anything about git and terminals, it's easy as pie. Simply clone the repo for the modpack. Ensure you have Packwiz installed on your system, then use the Packwiz documentation to learn how to add mods to the modpack. When you are done editing, please submit a pull request for your mod additions and they will be considered.
 
 We are open to all community submissions, so long as it isn't too resource intensive or makes players overpowered.
+
+## Latest Changes:
+
+**Removed:**
+- Journey Map
+
+**Added:**
+- Xaero's Minimap
+- Open Parties and Claims Mod

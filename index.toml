@@ -66,7 +66,7 @@ hash = "0eb02378b085f8acaa33cbf2f9e4592c447664742ac16a3d03808c2eeff7f501"
 
 [[files]]
 file = "README.md"
-hash = "5c3bd3f0a8eeb05f1caca8911c9b3d816c5e5e8182ab6a1c9012ae9a46b724eb"
+hash = "a3da768ee776cd1f477b42d6abf6d94cb882f188e9d19201209af56740dd26ba"
 
 [[files]]
 file = "config/Additional Structures - General.cfg"
@@ -5819,11 +5819,6 @@ hash = "79be136bfe56867556786ec4abe2d3d7ad35d8f33070f55c42590820e698fc56"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "5209de0e2eeccacc8f2d554681f92deb78b4c108e596c60e580d5e2a1b3f2756"
-metafile = true
-
-[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
 metafile = true
@@ -5961,6 +5956,11 @@ metafile = true
 [[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
 hash = "4a5234958a5656afaf5c8cd1c907cbc89a58c6fa0f806e6f8e8b3f98b39dcfe8"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "ce7da1b0909130c1934a001903e415fe162e5044b4e01baf32a16caa13d9ce2a"
 metafile = true
 
 [[files]]
@@ -6166,6 +6166,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "01399fef27404a511bfc9b6dad93773e1847c394e86d258d4fa1f3ef9171288c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "9956ae2620c01317d400f948aa5cf3c57c468c0f5502fd5339111a6ac39d6c65"
 metafile = true
 
 [[files]]
