@@ -1,0 +1,13 @@
+name = "Quantum Quarry Plus"
+filename = "qqp_1.5.0_1.18.2_beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "20bcbd7062936d29f96d4c2eee2474ff824215ee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3887446
+project-id = 400954

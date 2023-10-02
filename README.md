@@ -5,8 +5,8 @@ This is the official modpack for the CraftNectar server.
 ## What is in it?
 
 This is the output of the Packwiz list command as of now:
-Additional Structures
-Akashic Tome
+- Additional Structures
+- Akashic Tome
 - Alternate Current
 - Annotated DI (Forge)
 - Applied Energistics 2
@@ -23,6 +23,7 @@ Akashic Tome
 - Bonsai Trees 3
 - Bookshelf
 - Botania
+- Botany Pots
 - Building Wands
 - Caelus API (Forge)
 - Camera Mod
@@ -92,6 +93,7 @@ Akashic Tome
 - Oculus
 - Oh The Biomes You'll Go
 - Open Parties and Claims
+- OpenBlocks Elevator
 - Origins (Forge)
 - Origins++
 - Overlord
@@ -102,6 +104,7 @@ Akashic Tome
 - Placebo
 - Pluto
 - Puzzles Lib [Forge & Fabric]
+- Quantum Quarry Plus
 - Refined Storage
 - Rubidium
 - Saturn
@@ -132,6 +135,8 @@ Akashic Tome
 - Visual Workbench [Forge & Fabric]
 - Waystones
 - When Dungeons Arise - Forge!
+- Xaero's Minimap
+- Xaero's World Map
 - XL Packets
 - YUNG's API (Forge)
 - YUNG's Better Desert Temples (Forge)
@@ -145,8 +150,6 @@ Akashic Tome
 - YUNG's Bridges (Forge)
 - YUNG's Extras (Forge)
 - ZeroCore 2
-
-
 
 ## How do I play?
 

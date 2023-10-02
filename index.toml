@@ -66,7 +66,7 @@ hash = "0eb02378b085f8acaa33cbf2f9e4592c447664742ac16a3d03808c2eeff7f501"
 
 [[files]]
 file = "README.md"
-hash = "a3da768ee776cd1f477b42d6abf6d94cb882f188e9d19201209af56740dd26ba"
+hash = "05523a2fe40d42246b05ce81846b18318cd1d6095f5d3995a02779e2fce7965e"
 
 [[files]]
 file = "config/Additional Structures - General.cfg"
@@ -5619,6 +5619,11 @@ hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
 metafile = true
 
 [[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "437465a53cbda9aeef6cb895188a459cb84cced3c231eccaec89c88981551777"
+metafile = true
+
+[[files]]
 file = "mods/building-wands.pw.toml"
 hash = "0a021c4d2e50a68873f34ab2c70f5eb82d74ecbbe66ca0271dd28d0a57edb503"
 metafile = true
@@ -5964,6 +5969,11 @@ hash = "ce7da1b0909130c1934a001903e415fe162e5044b4e01baf32a16caa13d9ce2a"
 metafile = true
 
 [[files]]
+file = "mods/openblocks-elevator.pw.toml"
+hash = "9ba7ce600676fa147a460fa3ec04712943ed81c72a24774f2c2b721c113986a3"
+metafile = true
+
+[[files]]
 file = "mods/origins-forge.pw.toml"
 hash = "36bf28a4e72c977c24c0b4ccd51590ad3505b2985079d8fbfe182d893be53b6a"
 metafile = true
@@ -6011,6 +6021,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "60dae26990035300fa780d675f08756ef4d5fded76423b839328d648869e6b23"
+metafile = true
+
+[[files]]
+file = "mods/quantum-querry-plus.pw.toml"
+hash = "a280745de152b9f2c7a65d72d143085715f7bdebcff13a915db867cde146b2c9"
 metafile = true
 
 [[files]]
@@ -6171,6 +6186,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "9956ae2620c01317d400f948aa5cf3c57c468c0f5502fd5339111a6ac39d6c65"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "40642ba1ad8cdfcdd07da34fae1dbe248cea3e5449de1419c79a8e52595bc85c"
 metafile = true
 
 [[files]]

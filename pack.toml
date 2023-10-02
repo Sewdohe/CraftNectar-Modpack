@@ -1,12 +1,12 @@
 name = "Craft Nectar"
 author = "Sewdohe & Storm_x & ThatEpicTragdey"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9356d02deeff5261f8f403c6ab07ecb1438760a7c9c2a972d7f133cff9356550"
+hash = "f14d0ba2fe2f80f6b410e9dd8e20a7e6e5958ad0233648b0088add4825f03a9a"
 
 [versions]
 forge = "40.2.10"
